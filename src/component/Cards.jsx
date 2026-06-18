@@ -2,7 +2,7 @@ import React from "react";
 import { Bookmark } from "lucide-react";
 function Cards(prop) {
   return (
-    <div>
+    <div className="cardWrapper">
       <div className="Card">
         <div className="top">
           <img className="img" src={prop.logo} alt="" />
@@ -16,7 +16,7 @@ function Cards(prop) {
             <span> {prop.days}</span>
           </h3>
           <h3>Senior UI/UX Designer</h3>
-          <div className="botttom">
+          <div className="tag">
             <h5>Part time</h5>
             <h5>Senior level</h5>
           </div>
