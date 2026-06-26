@@ -1,16 +1,30 @@
-# React + Vite
+# 💼 Responsive React Job Card Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern, and fully responsive **Job Card Application** built using **React.js**. This project simulates a real-world job board interface where users can view, filter, and interact with various job listings seamlessly across all device sizes.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+You can check out the live deployment here:  
+👉 **[Live Demo Link](https://mdzaidalam-code.github.io/react-job-card/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
+* 📱 **Fully Responsive Design:** Optimized for Mobile, Tablet, and Desktop screens.
+* 🔍 **Dynamic Filtering:** Filter job cards instantly based on roles, technology stacks, or location.
+* 🏎️ **Component-Driven Architecture:** Built using clean, reusable React components.
+* 🎨 **Modern UI:** Styled with high-fidelity components for an interactive user experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+* **Frontend:** React.js
+* **Styling:** CSS3 / Tailwind CSS (Update as per your actual styling method)
+* **Deployment:** GitHub Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/mdzaidalam-code/react-job-card.git](https://github.com/mdzaidalam-code/react-job-card.git)
