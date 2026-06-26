@@ -18,7 +18,6 @@ You can check out the live deployment here:
 
 ## 🛠️ Tech Stack
 * **Frontend:** React.js
-* **Styling:** CSS3 / Tailwind CSS (Update as per your actual styling method)
 * **Deployment:** GitHub Pages
 
 ---
